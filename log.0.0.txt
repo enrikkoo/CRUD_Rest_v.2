@@ -1,301 +1,238 @@
-мая 27, 2020 4:25:46 PM org.apache.coyote.AbstractProtocol init
-INFO: Initializing ProtocolHandler ["http-nio-8080"]
-мая 27, 2020 4:25:46 PM org.apache.catalina.core.StandardService startInternal
-INFO: Starting service [Tomcat]
-мая 27, 2020 4:25:46 PM org.apache.catalina.core.StandardEngine startInternal
-INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
-мая 27, 2020 4:25:46 PM org.apache.catalina.core.ApplicationContext log
-INFO: Initializing Spring embedded WebApplicationContext
-мая 27, 2020 4:25:47 PM org.apache.coyote.AbstractProtocol start
-INFO: Starting ProtocolHandler ["http-nio-8080"]
-мая 27, 2020 4:26:08 PM org.apache.catalina.core.ApplicationContext log
+июн. 02, 2020 3:14:17 AM org.apache.catalina.core.ApplicationContext log
 INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
-мая 27, 2020 4:26:08 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-мая 27, 2020 4:26:08 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-мая 27, 2020 4:26:27 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-мая 27, 2020 4:26:27 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-мая 27, 2020 4:26:40 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-мая 27, 2020 4:26:40 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-мая 27, 2020 4:26:50 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-мая 27, 2020 4:26:50 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-мая 27, 2020 4:26:54 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-мая 27, 2020 4:26:54 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-мая 27, 2020 4:27:00 PM com.example.Rest.controller.UserController read
+июн. 02, 2020 3:14:17 AM com.example.Rest.controller.UserController read
 INFO: Received a request to output users
-мая 27, 2020 4:27:00 PM com.example.Rest.service.UserServiceImplementation read
+июн. 02, 2020 3:14:17 AM com.example.Rest.service.UserServiceImplementation read
 INFO: Getting all users
-мая 27, 2020 4:27:15 PM com.example.Rest.controller.UserController readUserById
-INFO: Received a request to get a user by ID
-мая 27, 2020 4:27:15 PM com.example.Rest.service.UserServiceImplementation readUserById
-INFO: Getting a user by ID
-мая 27, 2020 4:27:23 PM com.example.Rest.controller.UserController readUserById
-INFO: Received a request to get a user by ID
-мая 27, 2020 4:27:23 PM com.example.Rest.service.UserServiceImplementation readUserById
-INFO: Getting a user by ID
-мая 27, 2020 4:27:37 PM com.example.Rest.controller.UserController read
+июн. 02, 2020 3:14:38 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июн. 02, 2020 3:14:38 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июн. 02, 2020 3:14:38 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июн. 02, 2020 3:14:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июн. 02, 2020 3:14:39 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июн. 02, 2020 3:14:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июн. 02, 2020 3:14:43 AM com.example.Rest.controller.UserController read
 INFO: Received a request to output users
-мая 27, 2020 4:27:37 PM com.example.Rest.service.UserServiceImplementation read
+июн. 02, 2020 3:14:43 AM com.example.Rest.service.UserServiceImplementation read
 INFO: Getting all users
-мая 27, 2020 4:27:47 PM com.example.Rest.controller.UserController delete
+июн. 02, 2020 3:14:55 AM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июн. 02, 2020 3:14:55 AM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июн. 02, 2020 3:14:58 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июн. 02, 2020 3:14:58 AM com.example.Rest.service.UserServiceImplementation create
+INFO: Create user
+июн. 02, 2020 3:15:01 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июн. 02, 2020 3:15:01 AM com.example.Rest.service.UserServiceImplementation create
+INFO: Create user
+июн. 02, 2020 3:15:07 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июн. 02, 2020 3:15:07 AM com.example.Rest.service.UserServiceImplementation create
+INFO: Create user
+июн. 02, 2020 3:15:10 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июн. 02, 2020 3:15:10 AM com.example.Rest.service.UserServiceImplementation create
+INFO: Create user
+июн. 02, 2020 3:15:15 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июн. 02, 2020 3:15:15 AM com.example.Rest.service.UserServiceImplementation create
+INFO: Create user
+июн. 02, 2020 3:15:17 AM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июн. 02, 2020 3:15:17 AM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июн. 02, 2020 3:15:24 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июн. 02, 2020 3:15:24 AM com.example.Rest.service.UserServiceImplementation create
+INFO: Create user
+июн. 02, 2020 3:15:24 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июн. 02, 2020 3:15:24 AM com.example.Rest.service.UserServiceImplementation create
+INFO: Create user
+июн. 02, 2020 3:15:24 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июн. 02, 2020 3:15:24 AM com.example.Rest.service.UserServiceImplementation create
+INFO: Create user
+июн. 02, 2020 3:15:26 AM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июн. 02, 2020 3:15:26 AM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июн. 02, 2020 3:15:36 AM com.example.Rest.controller.UserController delete
 INFO: Received a request to delete a user by ID
-мая 27, 2020 4:27:47 PM com.example.Rest.service.UserServiceImplementation delete
+июн. 02, 2020 3:15:36 AM com.example.Rest.service.UserServiceImplementation delete
 INFO: Deleting a user
-мая 27, 2020 4:27:49 PM com.example.Rest.controller.UserController delete
+июн. 02, 2020 3:15:37 AM com.example.Rest.controller.UserController delete
 INFO: Received a request to delete a user by ID
-мая 27, 2020 4:27:49 PM com.example.Rest.service.UserServiceImplementation delete
+июн. 02, 2020 3:15:37 AM com.example.Rest.service.UserServiceImplementation delete
 INFO: Deleting a user
-мая 27, 2020 4:27:51 PM com.example.Rest.controller.UserController delete
+июн. 02, 2020 3:15:39 AM com.example.Rest.controller.UserController delete
 INFO: Received a request to delete a user by ID
-мая 27, 2020 4:27:51 PM com.example.Rest.service.UserServiceImplementation delete
+июн. 02, 2020 3:15:39 AM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июн. 02, 2020 3:15:44 AM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июн. 02, 2020 3:15:44 AM com.example.Rest.service.UserServiceImplementation readUserById
+INFO: Getting a user by ID
+июн. 02, 2020 3:16:12 AM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июн. 02, 2020 3:16:12 AM com.example.Rest.service.UserServiceImplementation readUserById
+INFO: Getting a user by ID
+июн. 02, 2020 3:16:19 AM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июн. 02, 2020 3:16:19 AM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июн. 02, 2020 3:16:26 AM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июн. 02, 2020 3:16:26 AM com.example.Rest.service.UserServiceImplementation readUserById
+INFO: Getting a user by ID
+июн. 02, 2020 3:16:28 AM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июн. 02, 2020 3:16:28 AM com.example.Rest.service.UserServiceImplementation readUserById
+INFO: Getting a user by ID
+июн. 02, 2020 3:16:42 AM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июн. 02, 2020 3:16:42 AM com.example.Rest.service.UserServiceImplementation delete
 WARNING: Couldn't delete the user,check id
-мая 27, 2020 4:28:05 PM com.example.Rest.controller.UserController read
-INFO: Received a request to output users
-мая 27, 2020 4:28:05 PM com.example.Rest.service.UserServiceImplementation read
-INFO: Getting all users
-мая 27, 2020 4:28:44 PM com.example.Rest.controller.UserController update
+июн. 02, 2020 3:16:51 AM com.example.Rest.controller.UserController update
 INFO: Received a request to update user information
-мая 27, 2020 4:28:44 PM com.example.Rest.service.UserServiceImplementation update
+июн. 02, 2020 3:16:51 AM com.example.Rest.service.UserServiceImplementation update
 INFO: Updating the user
-мая 27, 2020 4:28:48 PM com.example.Rest.controller.UserController read
-INFO: Received a request to output users
-мая 27, 2020 4:28:48 PM com.example.Rest.service.UserServiceImplementation read
-INFO: Getting all users
-мая 27, 2020 4:28:59 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-мая 27, 2020 4:28:59 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-мая 27, 2020 4:29:01 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-мая 27, 2020 4:29:01 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-мая 27, 2020 4:29:02 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-мая 27, 2020 4:29:02 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-мая 27, 2020 4:29:04 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-мая 27, 2020 4:29:04 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-мая 27, 2020 4:29:06 PM com.example.Rest.controller.UserController read
-INFO: Received a request to output users
-мая 27, 2020 4:29:06 PM com.example.Rest.service.UserServiceImplementation read
-INFO: Getting all users
-мая 27, 2020 4:29:22 PM com.example.Rest.controller.UserController update
-INFO: Received a request to update user information
-мая 27, 2020 4:29:22 PM com.example.Rest.service.UserServiceImplementation update
-INFO: Updating the user
-мая 27, 2020 4:29:22 PM com.example.Rest.service.UserServiceImplementation update
+июн. 02, 2020 3:16:51 AM com.example.Rest.service.UserServiceImplementation update
 WARNING: Couldn't update the user,check id
-мая 27, 2020 4:29:30 PM com.example.Rest.controller.UserController readUserById
+июн. 02, 2020 3:17:09 AM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июн. 02, 2020 3:17:09 AM com.example.Rest.service.UserServiceImplementation update
+INFO: Updating the user
+июн. 02, 2020 3:17:13 AM com.example.Rest.controller.UserController readUserById
 INFO: Received a request to get a user by ID
-мая 27, 2020 4:29:30 PM com.example.Rest.service.UserServiceImplementation readUserById
+июн. 02, 2020 3:17:13 AM com.example.Rest.service.UserServiceImplementation readUserById
 INFO: Getting a user by ID
-мая 27, 2020 4:29:34 PM com.example.Rest.controller.UserController read
+июн. 02, 2020 3:17:14 AM com.example.Rest.controller.UserController read
 INFO: Received a request to output users
-мая 27, 2020 4:29:34 PM com.example.Rest.service.UserServiceImplementation read
+июн. 02, 2020 3:17:14 AM com.example.Rest.service.UserServiceImplementation read
 INFO: Getting all users
-мая 27, 2020 4:30:01 PM com.example.Rest.controller.UserController delete
-INFO: Received a request to delete a user by ID
-мая 27, 2020 4:30:01 PM com.example.Rest.service.UserServiceImplementation delete
-INFO: Deleting a user
-мая 27, 2020 4:30:04 PM com.example.Rest.controller.UserController delete
-INFO: Received a request to delete a user by ID
-мая 27, 2020 4:30:04 PM com.example.Rest.service.UserServiceImplementation delete
-INFO: Deleting a user
-мая 27, 2020 4:30:09 PM com.example.Rest.controller.UserController read
+июн. 02, 2020 3:17:35 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июн. 02, 2020 3:17:35 AM com.example.Rest.service.UserServiceImplementation create
+INFO: Create user
+июн. 02, 2020 3:17:40 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июн. 02, 2020 3:17:40 AM com.example.Rest.service.UserServiceImplementation create
+INFO: Create user
+июн. 02, 2020 3:17:42 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июн. 02, 2020 3:17:42 AM com.example.Rest.service.UserServiceImplementation create
+INFO: Create user
+июн. 02, 2020 3:17:43 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июн. 02, 2020 3:17:43 AM com.example.Rest.service.UserServiceImplementation create
+INFO: Create user
+июн. 02, 2020 3:17:51 AM com.example.Rest.controller.UserController read
 INFO: Received a request to output users
-мая 27, 2020 4:30:09 PM com.example.Rest.service.UserServiceImplementation read
+июн. 02, 2020 3:17:51 AM com.example.Rest.service.UserServiceImplementation read
 INFO: Getting all users
-мая 28, 2020 1:56:29 PM org.apache.coyote.AbstractProtocol init
-INFO: Initializing ProtocolHandler ["http-nio-8080"]
-мая 28, 2020 1:56:29 PM org.apache.catalina.core.StandardService startInternal
-INFO: Starting service [Tomcat]
-мая 28, 2020 1:56:29 PM org.apache.catalina.core.StandardEngine startInternal
-INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
-мая 28, 2020 1:56:29 PM org.apache.catalina.core.ApplicationContext log
-INFO: Initializing Spring embedded WebApplicationContext
-мая 28, 2020 1:56:30 PM org.apache.coyote.AbstractProtocol start
-INFO: Starting ProtocolHandler ["http-nio-8080"]
-мая 28, 2020 3:07:14 PM org.apache.coyote.AbstractProtocol init
-INFO: Initializing ProtocolHandler ["http-nio-8080"]
-мая 28, 2020 3:07:14 PM org.apache.catalina.core.StandardService startInternal
-INFO: Starting service [Tomcat]
-мая 28, 2020 3:07:14 PM org.apache.catalina.core.StandardEngine startInternal
-INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
-мая 28, 2020 3:07:14 PM org.apache.catalina.core.ApplicationContext log
-INFO: Initializing Spring embedded WebApplicationContext
-мая 28, 2020 3:07:14 PM org.apache.coyote.AbstractProtocol start
-INFO: Starting ProtocolHandler ["http-nio-8080"]
-мая 28, 2020 3:20:37 PM org.apache.catalina.core.ApplicationContext log
-INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
-мая 28, 2020 3:20:37 PM com.example.Rest.controller.UserController read
-INFO: Received a request to output users
-мая 28, 2020 3:20:37 PM com.example.Rest.service.UserServiceImplementation read
-INFO: Getting all users
-мая 28, 2020 9:32:04 PM com.example.Rest.service.Data initializationfreeIds
-WARNING: An exception occurred when initializing free IDS
-мая 29, 2020 12:28:24 AM org.apache.coyote.AbstractProtocol init
-INFO: Initializing ProtocolHandler ["http-nio-8080"]
-мая 29, 2020 12:28:24 AM org.apache.catalina.core.StandardService startInternal
-INFO: Starting service [Tomcat]
-мая 29, 2020 12:28:24 AM org.apache.catalina.core.StandardEngine startInternal
-INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
-мая 29, 2020 12:28:24 AM org.apache.catalina.core.ApplicationContext log
-INFO: Initializing Spring embedded WebApplicationContext
-мая 29, 2020 12:28:24 AM org.apache.coyote.AbstractProtocol start
-INFO: Starting ProtocolHandler ["http-nio-8080"]
-июн. 01, 2020 3:47:29 PM org.apache.coyote.AbstractProtocol init
-INFO: Initializing ProtocolHandler ["http-nio-8080"]
-июн. 01, 2020 3:47:29 PM org.apache.catalina.core.StandardService startInternal
-INFO: Starting service [Tomcat]
-июн. 01, 2020 3:47:29 PM org.apache.catalina.core.StandardEngine startInternal
-INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
-июн. 01, 2020 3:47:29 PM org.apache.catalina.core.ApplicationContext log
-INFO: Initializing Spring embedded WebApplicationContext
-июн. 01, 2020 3:47:29 PM org.apache.coyote.AbstractProtocol start
-INFO: Starting ProtocolHandler ["http-nio-8080"]
-июн. 01, 2020 3:48:01 PM org.apache.coyote.http11.Http11Processor service
-INFO: Error parsing HTTP request header
- Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
-java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x000x010x000x010xfc0x030x03P0x09^J0xe00x84>T0xca0xf00x88]. HTTP method names must be tokens
-	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:418)
-	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:260)
-	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
-	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
-	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
-	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
-	at java.base/java.lang.Thread.run(Thread.java:834)
-
-июн. 01, 2020 4:27:41 PM org.apache.coyote.AbstractProtocol init
-INFO: Initializing ProtocolHandler ["http-nio-8080"]
-июн. 01, 2020 4:27:41 PM org.apache.catalina.core.StandardService startInternal
-INFO: Starting service [Tomcat]
-июн. 01, 2020 4:27:41 PM org.apache.catalina.core.StandardEngine startInternal
-INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
-июн. 01, 2020 4:27:41 PM org.apache.catalina.core.ApplicationContext log
-INFO: Initializing Spring embedded WebApplicationContext
-июн. 01, 2020 4:27:41 PM org.apache.coyote.AbstractProtocol start
-INFO: Starting ProtocolHandler ["http-nio-8080"]
-июн. 01, 2020 4:32:07 PM org.apache.coyote.AbstractProtocol init
-INFO: Initializing ProtocolHandler ["http-nio-8080"]
-июн. 01, 2020 4:32:07 PM org.apache.catalina.core.StandardService startInternal
-INFO: Starting service [Tomcat]
-июн. 01, 2020 4:32:07 PM org.apache.catalina.core.StandardEngine startInternal
-INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
-июн. 01, 2020 4:32:07 PM org.apache.catalina.core.ApplicationContext log
-INFO: Initializing Spring embedded WebApplicationContext
-июн. 01, 2020 4:32:07 PM org.apache.coyote.AbstractProtocol start
-INFO: Starting ProtocolHandler ["http-nio-8080"]
-июн. 01, 2020 4:32:22 PM org.apache.catalina.core.ApplicationContext log
-INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
-июн. 01, 2020 4:32:22 PM com.example.Rest.controller.UserController read
-INFO: Received a request to output users
-июн. 01, 2020 4:32:22 PM com.example.Rest.service.UserServiceImplementation read
-INFO: Getting all users
-июн. 01, 2020 4:32:56 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-июн. 01, 2020 4:32:56 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-июн. 01, 2020 4:32:58 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-июн. 01, 2020 4:32:58 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-июн. 01, 2020 4:33:04 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-июн. 01, 2020 4:33:04 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-июн. 01, 2020 4:33:14 PM com.example.Rest.controller.UserController delete
-INFO: Received a request to delete a user by ID
-июн. 01, 2020 4:33:14 PM com.example.Rest.service.UserServiceImplementation delete
-INFO: Deleting a user
-июн. 01, 2020 4:33:17 PM com.example.Rest.controller.UserController delete
-INFO: Received a request to delete a user by ID
-июн. 01, 2020 4:33:17 PM com.example.Rest.service.UserServiceImplementation delete
-INFO: Deleting a user
-июн. 01, 2020 4:33:22 PM com.example.Rest.controller.UserController read
-INFO: Received a request to output users
-июн. 01, 2020 4:33:22 PM com.example.Rest.service.UserServiceImplementation read
-INFO: Getting all users
-июн. 01, 2020 4:33:33 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-июн. 01, 2020 4:33:33 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-июн. 01, 2020 4:33:50 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-июн. 01, 2020 4:33:50 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-июн. 01, 2020 4:33:53 PM com.example.Rest.controller.UserController read
-INFO: Received a request to output users
-июн. 01, 2020 4:33:53 PM com.example.Rest.service.UserServiceImplementation read
-INFO: Getting all users
-июн. 01, 2020 4:34:45 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-июн. 01, 2020 4:34:45 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-июн. 01, 2020 4:34:45 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-июн. 01, 2020 4:34:45 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-июн. 01, 2020 4:34:46 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-июн. 01, 2020 4:34:46 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-июн. 01, 2020 4:34:46 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-июн. 01, 2020 4:34:46 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-июн. 01, 2020 4:34:47 PM com.example.Rest.controller.UserController create
-INFO: Received a request to create a user
-июн. 01, 2020 4:34:47 PM com.example.Rest.service.UserServiceImplementation create
-INFO: Create user
-июн. 01, 2020 4:34:52 PM com.example.Rest.controller.UserController delete
-INFO: Received a request to delete a user by ID
-июн. 01, 2020 4:34:52 PM com.example.Rest.service.UserServiceImplementation delete
-INFO: Deleting a user
-июн. 01, 2020 4:34:53 PM com.example.Rest.controller.UserController delete
-INFO: Received a request to delete a user by ID
-июн. 01, 2020 4:34:53 PM com.example.Rest.service.UserServiceImplementation delete
-INFO: Deleting a user
-июн. 01, 2020 4:34:56 PM com.example.Rest.controller.UserController readUserById
+июн. 02, 2020 3:20:38 AM com.example.Rest.controller.UserController readUserById
 INFO: Received a request to get a user by ID
-июн. 01, 2020 4:34:56 PM com.example.Rest.service.UserServiceImplementation readUserById
+июн. 02, 2020 3:20:38 AM com.example.Rest.service.UserServiceImplementation readUserById
 INFO: Getting a user by ID
-июн. 01, 2020 4:35:01 PM com.example.Rest.controller.UserController read
+июн. 02, 2020 3:22:13 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июн. 02, 2020 3:22:13 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июн. 02, 2020 3:22:13 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июн. 02, 2020 3:22:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июн. 02, 2020 3:22:14 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июн. 02, 2020 3:22:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июн. 02, 2020 3:22:18 AM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июн. 02, 2020 3:22:18 AM com.example.Rest.service.UserServiceImplementation readUserById
+INFO: Getting a user by ID
+июн. 02, 2020 3:23:09 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июн. 02, 2020 3:23:09 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июн. 02, 2020 3:23:09 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июн. 02, 2020 3:23:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июн. 02, 2020 3:23:10 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июн. 02, 2020 3:23:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июн. 02, 2020 3:23:13 AM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июн. 02, 2020 3:23:13 AM com.example.Rest.service.UserServiceImplementation readUserById
+INFO: Getting a user by ID
+июн. 02, 2020 3:23:13 AM com.example.Rest.service.UserServiceImplementation readUserById
+WARNING: Couldn't read the user,check id
+июн. 02, 2020 3:43:13 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июн. 02, 2020 3:43:13 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июн. 02, 2020 3:43:13 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июн. 02, 2020 3:43:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июн. 02, 2020 3:43:14 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июн. 02, 2020 3:50:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июн. 02, 2020 3:50:56 AM com.example.Rest.controller.UserController read
 INFO: Received a request to output users
-июн. 01, 2020 4:35:01 PM com.example.Rest.service.UserServiceImplementation read
+июн. 02, 2020 3:50:56 AM com.example.Rest.service.UserServiceImplementation read
 INFO: Getting all users
-июн. 01, 2020 5:11:38 PM com.example.Rest.service.Data initializationfreeIds
-WARNING: An exception occurred when initializing free IDS
-июн. 01, 2020 5:11:39 PM org.apache.coyote.AbstractProtocol init
-INFO: Initializing ProtocolHandler ["http-nio-8080"]
-июн. 01, 2020 5:11:39 PM org.apache.catalina.core.StandardService startInternal
-INFO: Starting service [Tomcat]
-июн. 01, 2020 5:11:39 PM org.apache.catalina.core.StandardEngine startInternal
-INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
-июн. 01, 2020 5:11:39 PM org.apache.catalina.core.ApplicationContext log
-INFO: Initializing Spring embedded WebApplicationContext
-июн. 01, 2020 5:11:40 PM org.apache.coyote.AbstractProtocol start
-INFO: Starting ProtocolHandler ["http-nio-8080"]
-июн. 01, 2020 5:12:22 PM org.apache.coyote.AbstractProtocol init
-INFO: Initializing ProtocolHandler ["http-nio-8080"]
-июн. 01, 2020 5:12:22 PM org.apache.catalina.core.StandardService startInternal
-INFO: Starting service [Tomcat]
-июн. 01, 2020 5:12:22 PM org.apache.catalina.core.StandardEngine startInternal
-INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
-июн. 01, 2020 5:12:22 PM org.apache.catalina.core.ApplicationContext log
-INFO: Initializing Spring embedded WebApplicationContext
-июн. 01, 2020 5:12:23 PM org.apache.coyote.AbstractProtocol start
-INFO: Starting ProtocolHandler ["http-nio-8080"]
+июн. 02, 2020 3:51:03 AM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июн. 02, 2020 3:51:03 AM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июн. 02, 2020 3:51:03 AM com.example.Rest.service.UserServiceImplementation delete
+INFO: User deleted
+июн. 02, 2020 3:51:04 AM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июн. 02, 2020 3:51:04 AM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июн. 02, 2020 3:51:04 AM com.example.Rest.service.UserServiceImplementation delete
+INFO: User deleted
+июн. 02, 2020 3:51:06 AM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июн. 02, 2020 3:51:06 AM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июн. 02, 2020 3:51:06 AM com.example.Rest.service.UserServiceImplementation delete
+WARNING: Couldn't delete the user,check id
+июн. 02, 2020 3:51:20 AM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июн. 02, 2020 3:51:20 AM com.example.Rest.service.UserServiceImplementation readUserById
+INFO: Getting a user by ID
+июн. 02, 2020 3:51:20 AM com.example.Rest.service.UserServiceImplementation readUserById
+WARNING: Couldn't read the user,check id
+июн. 02, 2020 3:51:23 AM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июн. 02, 2020 3:51:23 AM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июн. 02, 2020 3:51:32 AM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июн. 02, 2020 3:51:32 AM com.example.Rest.service.UserServiceImplementation update
+INFO: Updating the user
+июн. 02, 2020 3:51:32 AM com.example.Rest.service.UserServiceImplementation update
+INFO: User updated
+июн. 02, 2020 3:51:42 AM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июн. 02, 2020 3:51:42 AM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июн. 02, 2020 3:51:59 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июн. 02, 2020 3:51:59 AM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июн. 02, 2020 3:51:59 AM com.example.Rest.service.UserServiceImplementation create
+INFO: User created

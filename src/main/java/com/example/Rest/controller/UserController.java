@@ -6,7 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.Map;
 import java.util.logging.Level;
 
@@ -18,7 +17,7 @@ public class UserController {
     private final UserService userService;
 
     /**
-     * Initialize {@link userService} with {@link UserServiceImplementation} bean
+     * Initialize userService with UserServiceImplementation bean
      * @param userService - instance of UserService, realizes CRUD methods
      */
     @Autowired

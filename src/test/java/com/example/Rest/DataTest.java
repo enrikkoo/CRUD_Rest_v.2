@@ -9,36 +9,34 @@ import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+
+import java.io.File;
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.atomic.AtomicInteger;
 
-import static com.example.Rest.service.Data.current_id;
 import static com.example.Rest.service.Data.initializationfreeIds;
 
 public class DataTest {
 
-
-    Map<Integer, User> USERS_DATABASE = new HashMap<>();
-    static final List<Integer> freeIdsTest = new LinkedList<>();
+    static final List<AtomicInteger> freeIdsTest = new LinkedList<>();
     private static final String PROPERTIES_TEST = "src/test/resources/PropertiesTest";
-    private static final String jsonInString = "";
-    private static  int currentIdTest = 19;
+    private static final String JSON_USERTesting = "src/main/resources/templates/JSON_USER";
+    private static final AtomicInteger currentIdTest = new AtomicInteger(19);
 
-    @BeforeClass
-    public static void prepare() {
-
-    }
     public boolean JSONValid(){
         final ObjectMapper mapper = new ObjectMapper();
         try {
-            mapper.readTree(jsonInString);
+            mapper.readTree(new File(JSON_USERTesting ));
         } catch (JsonProcessingException e) {
             return false;
+        } catch (IOException e) {
+            e.printStackTrace();
         }
         return true;
-
     }
 
     @Test
@@ -46,13 +44,13 @@ public class DataTest {
         Assert.assertTrue(JSONValid());
     }
 
-
     @Test
     public void initializationfreeIdsTest(){
         initializationfreeIds(freeIdsTest,PROPERTIES_TEST);
-        List<Integer> exp = new LinkedList<>();
-        exp.add(10);
-        exp.add(15);
+        List<AtomicInteger> exp = new LinkedList<>();
+        exp.add(new AtomicInteger(10));
+        exp.add(new AtomicInteger(15));
+
         Assert.assertEquals(exp,freeIdsTest);
     }
 
@@ -60,11 +58,6 @@ public class DataTest {
     public void choiceTest(){
         initializationfreeIds(freeIdsTest,PROPERTIES_TEST);
 
-        Assert.assertEquals(10,Data.chooseId(freeIdsTest,PROPERTIES_TEST,currentIdTest));
-        currentIdTest++;
+        Assert.assertEquals(new AtomicInteger(10),Data.chooseId(freeIdsTest,PROPERTIES_TEST,currentIdTest));
     }
-
-
-
-
 }

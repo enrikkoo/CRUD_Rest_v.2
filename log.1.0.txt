@@ -1,6 +1,0 @@
-июн. 01, 2020 3:56:29 PM com.example.Rest.service.Data initializationfreeIds
-WARNING: An exception occurred when initializing free IDS
-июн. 01, 2020 3:56:56 PM com.example.Rest.service.Data initializationfreeIds
-WARNING: An exception occurred when initializing free IDS
-июн. 01, 2020 4:12:41 PM com.example.Rest.service.Data initializationfreeIds
-WARNING: An exception occurred when initializing free IDS

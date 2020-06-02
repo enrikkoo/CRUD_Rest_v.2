@@ -2,10 +2,9 @@ package com.example.Rest.service;
 
 import com.example.Rest.model.User;
 import org.springframework.stereotype.Service;
-
 import java.util.Map;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.logging.Level;
-
 import static com.example.Rest.RestApplication.*;
 import static com.example.Rest.service.Data.*;
 
@@ -13,15 +12,15 @@ import static com.example.Rest.service.Data.*;
 @Service
 public class UserServiceImplementation implements UserService {
 
-
     /**
      * Here the classic CRUD methods are overridden
      */
     @Override
     public void create(User user){
-        LOGGER.log(Level.INFO,"Create user");
-        USERS_DATABASE.put(Data.chooseId(freeIds,PROPERTIES,current_id),user);
-        writeToJSON_User(USERS_DATABASE,JSON_User);
+        LOGGER.log(Level.INFO,"Creating a user");
+        USERS_DATABASE.put(Data.chooseId(freeIds,PROPERTIES,currentID).get(),user);
+        writeToJSON_User(USERS_DATABASE,JSON_USER);
+        LOGGER.log(Level.INFO,"User created");
     }
 
     @Override
@@ -32,7 +31,10 @@ public class UserServiceImplementation implements UserService {
 
     @Override
     public User readUserById(int id){
-        LOGGER.log(Level.INFO,"Getting a user by ID");
+        LOGGER.log(Level.INFO, "Getting a user by ID");
+        if (!USERS_DATABASE.containsKey(id)) {
+            LOGGER.log(Level.WARNING,"Couldn't read the user,check id");
+        }
         return USERS_DATABASE.get(id);
     }
 
@@ -41,7 +43,8 @@ public class UserServiceImplementation implements UserService {
         LOGGER.log(Level.INFO,"Updating the user");
         if (USERS_DATABASE.containsKey(id)){
             USERS_DATABASE.put(id,user);
-            writeToJSON_User(USERS_DATABASE,JSON_User);
+            writeToJSON_User(USERS_DATABASE,JSON_USER);
+            LOGGER.log(Level.INFO,"User updated");
             return true;
             }
         LOGGER.log(Level.WARNING,"Couldn't update the user,check id");
@@ -50,12 +53,13 @@ public class UserServiceImplementation implements UserService {
 
     @Override
     public boolean delete(int id) {
+        LOGGER.log(Level.INFO,"Deleting a user");
         if(USERS_DATABASE.containsKey(id)){
-            LOGGER.log(Level.INFO,"Deleting a user");
             USERS_DATABASE.remove(id);
-            freeIds.add(id);
-            updateProperties(PROPERTIES,current_id,freeIds);
-            writeToJSON_User(USERS_DATABASE,JSON_User);
+            freeIds.add(new AtomicInteger(id));
+            updateProperties(PROPERTIES,currentID,freeIds);
+            writeToJSON_User(USERS_DATABASE,JSON_USER);
+            LOGGER.log(Level.INFO,"User deleted");
             return true;
         }
         LOGGER.log(Level.WARNING,"Couldn't delete the user,check id");
