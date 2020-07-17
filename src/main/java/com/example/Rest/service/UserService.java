@@ -6,11 +6,12 @@ import java.util.Map;
 
 /**
  * Here are the basic CRUD methods that are implemented in UserServiceImplementation
+ *
  * @see UserServiceImplementation
  */
 public interface UserService {
 
-    void create (User user);
+    void create(User user);
 
     Map<Integer, User> read();
 

@@ -236,3 +236,1442 @@ INFO: Received a request to create a user
 INFO: Creating a user
 июн. 02, 2020 3:51:59 AM com.example.Rest.service.UserServiceImplementation create
 INFO: User created
+июн. 03, 2020 9:33:42 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июн. 03, 2020 9:33:42 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июн. 03, 2020 9:33:42 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июн. 03, 2020 9:33:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июн. 03, 2020 9:33:43 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 4:33:29 PM com.example.Rest.service.Data initializationId
+WARNING: An exception occurred during IDE initialization
+июл. 13, 2020 4:33:29 PM com.example.Rest.service.Data initializationfreeIds
+WARNING: An exception occurred when initializing free IDS
+июл. 13, 2020 4:33:31 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 4:33:31 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 4:33:31 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 4:33:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 4:33:31 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 4:34:47 PM com.example.Rest.service.Data initializationId
+WARNING: An exception occurred during IDE initialization
+июл. 13, 2020 4:34:47 PM com.example.Rest.service.Data initializationfreeIds
+WARNING: An exception occurred when initializing free IDS
+июл. 13, 2020 4:34:48 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 4:34:48 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 4:34:48 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 4:34:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 4:34:49 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 5:26:09 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 5:26:09 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 5:26:09 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 5:26:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 5:26:10 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 5:36:19 PM com.example.Rest.service.Data initializationId
+WARNING: An exception occurred during IDE initialization
+июл. 13, 2020 5:36:19 PM com.example.Rest.service.Data initializationfreeIds
+WARNING: An exception occurred when initializing free IDS
+июл. 13, 2020 5:36:20 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 5:36:20 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 5:36:20 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 5:36:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 5:36:20 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 5:40:24 PM com.example.Rest.service.Data initializationId
+WARNING: An exception occurred during IDE initialization
+июл. 13, 2020 5:40:24 PM com.example.Rest.service.Data initializationfreeIds
+WARNING: An exception occurred when initializing free IDS
+июл. 13, 2020 5:40:25 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 5:40:25 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 5:40:25 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 5:40:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 5:40:26 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 5:43:17 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 5:43:18 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 5:43:18 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 5:43:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 5:43:18 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 5:48:11 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 5:48:11 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 5:48:11 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 5:48:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 5:48:11 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 5:55:05 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 5:55:05 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 5:55:05 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 5:55:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 5:55:05 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 5:58:38 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 5:58:38 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 5:58:38 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 5:58:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 5:58:39 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 6:38:53 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 6:38:53 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 6:38:53 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 6:38:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 6:38:53 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 6:45:12 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 6:45:12 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 6:45:12 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 6:45:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 6:45:12 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 6:45:31 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 6:45:31 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 6:45:31 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 6:45:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 6:45:31 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 6:46:49 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 6:46:49 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 6:46:49 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 6:46:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 6:46:49 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 6:47:20 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 6:47:20 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 6:47:20 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 6:47:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 6:47:20 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 6:47:53 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 6:47:53 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 6:47:53 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 6:47:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 6:47:53 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 6:49:57 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 6:49:57 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 6:49:57 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 6:49:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 6:49:57 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 6:51:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 13, 2020 6:51:26 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 13, 2020 6:51:26 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 13, 2020 6:51:50 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 13, 2020 6:51:50 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 13, 2020 6:51:50 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:149)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at com.example.Rest.service.Data.initializationfreeIds(Data.java:75)
+	at com.example.Rest.service.Data.chooseId(Data.java:119)
+	at com.example.Rest.service.UserServiceImplementation.create(UserServiceImplementation.java:31)
+	at com.example.Rest.controller.UserController.create(UserController.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+июл. 13, 2020 6:51:59 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 13, 2020 6:51:59 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 13, 2020 6:51:59 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:149)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at com.example.Rest.service.Data.initializationfreeIds(Data.java:75)
+	at com.example.Rest.service.Data.chooseId(Data.java:119)
+	at com.example.Rest.service.UserServiceImplementation.create(UserServiceImplementation.java:31)
+	at com.example.Rest.controller.UserController.create(UserController.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+июл. 13, 2020 6:55:50 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 6:55:50 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 6:55:50 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 6:55:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 6:55:50 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 6:57:17 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 6:57:17 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 6:57:17 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 6:57:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 6:57:18 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 6:58:16 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 6:58:16 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 6:58:16 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 6:58:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 6:58:16 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 6:59:01 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 6:59:01 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 6:59:01 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 6:59:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 6:59:01 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 6:59:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 13, 2020 6:59:02 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 13, 2020 6:59:02 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 13, 2020 6:59:03 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 13, 2020 6:59:03 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 13, 2020 6:59:04 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 13, 2020 6:59:04 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 13, 2020 7:05:52 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 7:05:52 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 7:05:52 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 7:05:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 7:05:52 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 7:06:16 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 7:06:16 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 7:06:16 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 7:06:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 7:06:16 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 7:06:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 13, 2020 7:06:21 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 13, 2020 7:06:21 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 13, 2020 7:06:40 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 13, 2020 7:06:40 PM com.example.Rest.service.UserServiceImplementation readUserById
+INFO: Getting a user by ID
+июл. 13, 2020 7:06:40 PM com.example.Rest.service.UserServiceImplementation readUserById
+WARNING: Couldn't read the user,check id
+июл. 13, 2020 7:07:15 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 7:07:15 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 7:07:15 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 7:07:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 7:07:16 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 7:07:53 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 7:07:53 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 7:07:53 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 7:07:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 7:07:53 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 7:14:30 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 7:14:30 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 7:14:30 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 7:14:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 7:14:31 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 7:20:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 13, 2020 7:20:30 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 13, 2020 7:20:30 PM com.example.Rest.service.UserServiceImplementation readUserById
+INFO: Getting a user by ID
+июл. 13, 2020 7:20:30 PM com.example.Rest.service.UserServiceImplementation readUserById
+WARNING: Couldn't read the user,check id
+июл. 13, 2020 7:20:32 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 13, 2020 7:20:32 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 13, 2020 7:20:41 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 13, 2020 7:20:41 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 13, 2020 7:20:41 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:149)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at com.example.Rest.service.Data.initializationfreeIds(Data.java:75)
+	at com.example.Rest.service.Data.chooseId(Data.java:119)
+	at com.example.Rest.service.UserServiceImplementation.create(UserServiceImplementation.java:33)
+	at com.example.Rest.controller.UserController.create(UserController.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+июл. 13, 2020 7:50:40 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 7:50:40 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 7:50:40 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 7:50:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 7:50:41 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 7:52:00 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 7:52:00 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 7:52:00 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 7:52:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 7:52:00 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 10:16:09 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:16:09 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:16:09 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:16:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:16:09 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 10:17:17 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:17:17 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:17:17 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:17:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:17:17 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 10:17:36 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:17:36 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:17:36 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:17:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:17:36 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 10:17:46 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:17:46 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:17:46 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:17:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:17:47 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 10:17:51 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:17:51 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:17:51 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:17:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:17:51 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 10:17:56 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:17:56 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:17:56 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:17:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:17:56 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 10:19:20 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:19:20 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:19:20 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:19:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:19:20 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 10:26:45 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:26:45 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:26:45 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:26:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:26:45 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:27:02 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:27:02 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:27:02 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:27:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:27:02 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:27:15 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:27:15 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:27:15 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:27:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:27:16 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:31:12 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:31:12 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:31:12 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:31:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:31:12 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 10:31:54 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:31:54 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:31:54 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:31:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:31:54 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 10:34:18 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:34:18 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:34:18 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:34:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:34:18 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 10:34:46 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:34:46 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:34:46 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:34:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:34:47 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:38:40 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:38:40 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:38:40 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:38:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:38:40 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:43:26 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:43:26 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:43:26 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:43:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:43:27 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:44:03 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:44:03 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:44:03 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:44:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:44:04 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:44:26 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:44:26 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:44:26 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:44:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:44:26 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:45:26 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:45:26 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:45:26 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:45:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:45:26 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:45:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 13, 2020 10:45:34 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 13, 2020 10:45:34 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 13, 2020 10:51:26 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:51:26 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:51:26 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:51:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:51:26 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 10:51:51 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:51:51 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:51:51 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:51:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:51:52 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:52:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 13, 2020 10:52:00 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 13, 2020 10:52:00 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 13, 2020 10:53:18 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:53:18 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:53:18 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:53:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:53:18 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 10:53:54 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:53:54 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:53:54 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:53:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:53:55 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:54:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 13, 2020 10:54:38 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:54:38 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:54:38 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:54:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:54:38 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:59:05 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 10:59:05 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 10:59:05 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 10:59:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 10:59:06 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:00:06 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:00:06 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 11:00:06 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 11:00:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 11:00:06 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:00:38 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:00:38 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 11:00:38 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 11:00:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 11:00:38 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:00:55 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:00:55 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 11:00:55 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 11:00:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 11:00:56 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:03:03 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:03:03 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 11:03:03 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 11:03:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 11:03:03 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:03:19 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:03:19 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 11:03:19 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 11:03:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 11:03:19 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 13, 2020 11:04:00 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:04:00 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 11:04:00 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 11:04:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 11:04:00 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:12:09 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:12:09 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 11:12:09 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 11:12:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 11:12:09 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:12:54 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:12:54 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 11:12:54 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 11:12:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 11:12:54 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:12:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 13, 2020 11:13:05 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:13:05 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 11:13:05 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 11:13:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 11:13:05 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:13:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 13, 2020 11:13:25 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:13:25 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 11:13:25 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 11:13:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 11:13:26 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:13:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 13, 2020 11:13:31 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 13, 2020 11:13:31 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 13, 2020 11:13:34 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 13, 2020 11:13:34 PM com.example.Rest.service.UserServiceImplementation readUserById
+INFO: Getting a user by ID
+июл. 13, 2020 11:39:58 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:39:58 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 13, 2020 11:39:58 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 13, 2020 11:39:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 13, 2020 11:39:58 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 13, 2020 11:40:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 13, 2020 11:40:08 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 13, 2020 11:40:08 PM com.example.Rest.service.UserServiceImplementation readUserById
+INFO: Getting a user by ID
+июл. 13, 2020 11:40:12 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 13, 2020 11:40:12 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 13, 2020 11:46:07 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 13, 2020 11:46:07 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 13, 2020 11:46:15 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 13, 2020 11:46:15 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июл. 13, 2020 11:46:15 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: User deleted
+июл. 13, 2020 11:46:20 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 13, 2020 11:46:20 PM com.example.Rest.service.UserServiceImplementation readUserById
+INFO: Getting a user by ID
+июл. 13, 2020 11:46:20 PM com.example.Rest.service.UserServiceImplementation readUserById
+WARNING: Couldn't read the user,check id
+июл. 13, 2020 11:46:21 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 13, 2020 11:46:21 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 14, 2020 12:50:47 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 14, 2020 12:50:47 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 14, 2020 12:50:47 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 14, 2020 12:50:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 14, 2020 12:50:47 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Tomcat]
+июл. 14, 2020 12:51:37 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 14, 2020 12:51:37 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 14, 2020 12:51:37 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 14, 2020 12:51:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 14, 2020 12:51:38 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 14, 2020 12:51:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 14, 2020 12:51:42 AM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 14, 2020 12:51:42 AM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 5:17:41 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 5:17:41 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 16, 2020 5:17:41 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 16, 2020 5:17:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 16, 2020 5:17:42 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 5:17:42 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 16, 2020 5:18:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 16, 2020 5:18:35 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 5:18:35 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 5:19:35 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 5:19:35 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 16, 2020 5:19:35 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 16, 2020 5:19:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 16, 2020 5:19:35 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 5:19:35 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 16, 2020 5:20:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 16, 2020 5:20:01 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 5:20:01 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 6:31:37 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 6:31:37 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 16, 2020 6:31:37 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 16, 2020 6:31:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 16, 2020 6:31:38 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 6:31:38 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 16, 2020 6:31:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 16, 2020 6:31:42 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 6:31:42 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 6:31:53 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 6:31:53 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 6:31:53 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 6:31:56 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 6:31:56 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:01:35 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 7:01:35 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 16, 2020 7:01:35 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 16, 2020 7:01:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 16, 2020 7:01:35 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 7:01:35 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 16, 2020 7:01:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 16, 2020 7:01:40 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:01:40 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:20:34 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 7:20:34 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 16, 2020 7:20:34 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 16, 2020 7:20:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 16, 2020 7:20:34 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 7:20:34 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 16, 2020 7:37:49 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 7:37:49 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 16, 2020 7:37:49 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 16, 2020 7:37:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 16, 2020 7:37:50 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 7:37:50 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 16, 2020 7:37:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 16, 2020 7:37:54 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:37:54 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:38:03 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 16, 2020 7:38:03 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июл. 16, 2020 7:38:03 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: User deleted
+июл. 16, 2020 7:38:08 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:38:08 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:38:16 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:38:16 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:38:16 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:38:19 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:38:19 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:38:31 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:38:31 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:38:31 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:38:32 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:38:32 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:38:32 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:38:32 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:38:32 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:38:32 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:38:34 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:38:34 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:38:34 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:38:35 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:38:35 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:38:35 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:38:37 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:38:37 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:38:45 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:38:45 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:38:45 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:38:46 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:38:46 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:38:54 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:38:54 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:38:54 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:38:54 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:38:54 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:38:54 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:38:55 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:38:55 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:38:55 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:38:55 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:38:55 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:38:55 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:38:58 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:38:58 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:39:04 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:39:04 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:39:04 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:39:05 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:39:05 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:39:05 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:39:07 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:39:07 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:39:38 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 7:39:38 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 16, 2020 7:39:38 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 16, 2020 7:39:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 16, 2020 7:39:38 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 7:39:38 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 16, 2020 7:39:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 16, 2020 7:39:49 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:39:49 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:39:51 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:39:51 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:39:51 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:39:52 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:39:52 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:39:52 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:39:52 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:39:52 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:39:52 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:39:54 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:39:54 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:39:57 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:39:57 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:39:57 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:39:58 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:39:58 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:39:58 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:39:59 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:39:59 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:39:59 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:39:59 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:39:59 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:39:59 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:40:01 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:40:01 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:40:09 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:40:09 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:40:09 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:40:11 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:40:11 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:42:44 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 7:42:44 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 16, 2020 7:42:44 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 16, 2020 7:42:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 16, 2020 7:42:44 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 7:42:44 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 16, 2020 7:42:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 16, 2020 7:42:57 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:42:57 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:43:00 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:43:00 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:43:00 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:43:00 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:43:00 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:43:00 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:43:01 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:43:01 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:43:01 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:43:03 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:43:03 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:48:51 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 7:48:51 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 16, 2020 7:48:51 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 16, 2020 7:48:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 16, 2020 7:48:52 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 7:48:52 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 16, 2020 7:50:31 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 7:50:31 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 16, 2020 7:50:31 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 16, 2020 7:50:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 16, 2020 7:50:32 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 16, 2020 7:50:32 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 16, 2020 7:50:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 16, 2020 7:50:35 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:50:35 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:50:43 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 16, 2020 7:50:43 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июл. 16, 2020 7:50:43 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: User deleted
+июл. 16, 2020 7:50:44 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 16, 2020 7:50:44 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июл. 16, 2020 7:50:44 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: User deleted
+июл. 16, 2020 7:50:45 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 16, 2020 7:50:45 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июл. 16, 2020 7:50:45 PM com.example.Rest.service.UserServiceImplementation delete
+WARNING: Couldn't delete the user,check id
+июл. 16, 2020 7:50:47 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 16, 2020 7:50:47 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июл. 16, 2020 7:50:47 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: User deleted
+июл. 16, 2020 7:50:50 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 16, 2020 7:50:50 PM com.example.Rest.service.UserServiceImplementation readUserById
+INFO: Getting a user by ID
+июл. 16, 2020 7:50:50 PM com.example.Rest.service.UserServiceImplementation readUserById
+WARNING: Couldn't read the user,check id
+июл. 16, 2020 7:50:57 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:50:57 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 16, 2020 7:51:02 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:51:02 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:51:02 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:51:03 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:51:03 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:51:03 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:51:03 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:51:03 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:51:03 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:51:03 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:51:03 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:51:03 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:51:04 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:51:04 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:51:04 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:51:04 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:51:04 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:51:04 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:51:05 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:51:05 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:51:05 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:51:05 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:51:05 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:51:05 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:51:05 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 16, 2020 7:51:05 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 16, 2020 7:51:05 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 16, 2020 7:51:08 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 16, 2020 7:51:08 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
