@@ -1675,3 +1675,957 @@ INFO: User created
 INFO: Received a request to output users
 июл. 16, 2020 7:51:08 PM com.example.Rest.service.UserServiceImplementation read
 INFO: Getting all users
+июл. 17, 2020 1:17:50 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 1:23:30 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 1:27:22 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 1:37:12 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 1:39:47 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:04:15 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:04:28 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:04:40 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:12:10 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:29:32 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:32:21 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:36:58 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:38:55 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:39:17 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:44:22 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:49:25 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:50:20 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:53:00 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:54:09 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:56:20 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:57:20 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:59:03 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 2:59:36 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 3:00:17 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 3:01:13 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 3:02:09 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 3:03:18 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 3:03:39 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 3:03:57 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 3:04:12 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 3:31:18 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 3:31:47 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 3:32:09 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 8:54:12 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 8:54:21 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 17, 2020 8:54:47 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 20, 2020 1:52:20 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 1:53:37 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 1:54:23 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 1:59:06 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 1:59:23 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:00:13 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:00:31 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:05:19 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:06:46 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:14:18 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 20, 2020 2:14:18 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 20, 2020 2:14:18 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 20, 2020 2:14:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 20, 2020 2:14:18 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 20, 2020 2:14:18 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 20, 2020 2:14:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 20, 2020 2:14:23 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:14:23 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:14:23 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 20, 2020 2:14:46 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:14:46 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:14:46 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 20, 2020 2:14:50 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 20, 2020 2:14:50 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 20, 2020 2:27:42 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:30:01 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 20, 2020 2:30:01 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 20, 2020 2:30:01 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 20, 2020 2:30:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 20, 2020 2:30:02 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 20, 2020 2:30:02 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 20, 2020 2:30:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 20, 2020 2:30:09 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:30:09 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:30:18 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:30:18 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:30:40 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:30:40 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:30:40 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 20, 2020 2:31:17 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:34:45 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 20, 2020 2:34:46 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 20, 2020 2:34:46 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 20, 2020 2:34:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 20, 2020 2:34:46 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 20, 2020 2:34:46 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 20, 2020 2:34:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 20, 2020 2:34:58 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:34:58 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:34:58 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 20, 2020 2:37:13 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 20, 2020 2:37:13 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 20, 2020 2:37:13 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 20, 2020 2:37:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 20, 2020 2:37:14 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 20, 2020 2:37:14 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 20, 2020 2:37:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 20, 2020 2:37:17 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:37:17 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:37:22 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:37:22 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:37:28 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:37:28 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:37:32 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:37:32 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:37:32 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 20, 2020 2:37:35 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 20, 2020 2:37:35 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 20, 2020 2:39:10 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 20, 2020 2:39:10 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 20, 2020 2:39:10 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 20, 2020 2:39:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 20, 2020 2:39:11 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 20, 2020 2:39:11 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 20, 2020 2:39:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 20, 2020 2:39:22 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:39:22 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:39:22 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 20, 2020 2:39:32 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:39:32 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:39:32 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 20, 2020 2:39:51 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:39:51 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:39:51 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 20, 2020 2:40:13 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 20, 2020 2:40:13 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 20, 2020 2:40:13 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 20, 2020 2:40:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 20, 2020 2:40:13 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 20, 2020 2:40:13 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 20, 2020 2:40:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 20, 2020 2:40:18 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:40:18 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:40:22 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:40:22 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:40:28 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:40:28 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:40:41 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:40:41 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 20, 2020 2:40:41 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 20, 2020 2:46:08 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:49:43 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:54:18 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 20, 2020 2:54:18 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:55:23 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:56:33 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 2:57:36 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 3:00:59 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 3:03:35 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 3:03:46 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 20, 2020 3:03:46 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 3:03:47 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 3:10:30 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 20, 2020 3:13:27 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 20, 2020 3:14:08 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 20, 2020 3:14:35 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 20, 2020 3:14:52 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 20, 2020 3:27:59 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 20, 2020 3:28:07 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 20, 2020 3:29:49 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 20, 2020 3:30:20 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 20, 2020 3:33:28 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 20, 2020 5:10:14 PM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 20, 2020 5:17:22 PM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 20, 2020 5:25:42 PM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 20, 2020 5:28:48 PM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 20, 2020 5:29:18 PM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 20, 2020 5:29:39 PM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 20, 2020 5:30:36 PM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 20, 2020 5:34:32 PM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 20, 2020 5:35:08 PM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 20, 2020 5:38:01 PM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 20, 2020 5:46:12 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 5:47:07 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 20, 2020 5:47:27 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 20, 2020 5:47:41 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 20, 2020 5:47:41 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 5:47:41 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 20, 2020 5:47:41 PM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 20, 2020 5:47:41 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 20, 2020 5:47:41 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 20, 2020 5:47:41 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 21, 2020 1:13:27 AM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 1:13:27 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 1:13:27 AM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 21, 2020 1:13:27 AM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 21, 2020 1:13:27 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 1:13:27 AM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 21, 2020 1:13:27 AM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 21, 2020 2:07:05 AM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 2:07:06 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 2:07:06 AM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 21, 2020 2:07:06 AM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 21, 2020 2:07:06 AM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 2:07:06 AM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 21, 2020 2:07:06 AM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 21, 2020 3:33:35 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 3:36:14 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 21, 2020 3:36:26 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 21, 2020 3:37:18 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 3:37:18 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 3:37:18 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 21, 2020 3:37:18 PM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 21, 2020 3:37:18 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 3:37:18 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 21, 2020 3:37:18 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 21, 2020 3:38:13 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 21, 2020 3:38:13 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 21, 2020 3:38:13 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 21, 2020 3:38:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 21, 2020 3:38:14 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 21, 2020 3:38:14 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 21, 2020 3:41:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 21, 2020 3:41:05 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 3:41:05 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 21, 2020 3:41:13 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 21, 2020 3:41:13 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июл. 21, 2020 3:41:13 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: User deleted
+июл. 21, 2020 3:41:14 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 21, 2020 3:41:14 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июл. 21, 2020 3:41:14 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: User deleted
+июл. 21, 2020 3:41:16 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 21, 2020 3:41:16 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июл. 21, 2020 3:41:16 PM com.example.Rest.service.UserServiceImplementation delete
+WARNING: Couldn't delete the user,check id
+июл. 21, 2020 3:41:17 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 21, 2020 3:41:17 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июл. 21, 2020 3:41:17 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: User deleted
+июл. 21, 2020 3:41:20 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 21, 2020 3:41:20 PM com.example.Rest.service.UserServiceImplementation readUserById
+INFO: Getting a user by ID
+июл. 21, 2020 3:41:20 PM com.example.Rest.service.UserServiceImplementation readUserById
+WARNING: Couldn't read the user,check id
+июл. 21, 2020 3:41:24 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 21, 2020 3:41:24 PM com.example.Rest.service.UserServiceImplementation readUserById
+INFO: Getting a user by ID
+июл. 21, 2020 3:41:26 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 3:41:26 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 21, 2020 3:54:02 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 21, 2020 3:54:02 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 21, 2020 3:54:02 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 21, 2020 3:54:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 21, 2020 3:54:02 PM com.example.Rest.service.Data setUsersDatabase
+WARNING: An exception occurred while reading the database
+июл. 21, 2020 3:54:02 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 21, 2020 3:54:02 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 21, 2020 3:54:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 21, 2020 3:54:20 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 3:54:20 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 21, 2020 3:54:42 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 3:54:42 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 21, 2020 3:54:42 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException
+	at com.example.Rest.service.UserServiceImplementation.create(UserServiceImplementation.java:37)
+	at com.example.Rest.controller.UserController.create(UserController.java:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+июл. 21, 2020 3:54:53 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 3:54:53 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 21, 2020 3:54:53 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException
+	at com.example.Rest.service.UserServiceImplementation.create(UserServiceImplementation.java:37)
+	at com.example.Rest.controller.UserController.create(UserController.java:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+июл. 21, 2020 3:54:56 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 3:54:56 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 21, 2020 3:55:06 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 3:55:06 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 21, 2020 3:55:06 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException
+	at com.example.Rest.service.UserServiceImplementation.create(UserServiceImplementation.java:37)
+	at com.example.Rest.controller.UserController.create(UserController.java:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+июл. 21, 2020 3:55:07 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 3:55:07 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 21, 2020 3:55:07 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException
+	at com.example.Rest.service.UserServiceImplementation.create(UserServiceImplementation.java:37)
+	at com.example.Rest.controller.UserController.create(UserController.java:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+июл. 21, 2020 3:55:53 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 21, 2020 3:55:53 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 21, 2020 3:55:53 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 21, 2020 3:55:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 21, 2020 3:55:53 PM com.example.Rest.service.Data setUsersDatabase
+WARNING: An exception occurred while reading the database
+июл. 21, 2020 3:55:54 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 21, 2020 3:55:54 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 21, 2020 3:55:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 21, 2020 3:55:57 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 3:55:57 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 21, 2020 3:55:57 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException
+	at com.example.Rest.service.UserServiceImplementation.create(UserServiceImplementation.java:37)
+	at com.example.Rest.controller.UserController.create(UserController.java:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+июл. 21, 2020 3:56:00 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 3:56:00 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 21, 2020 3:58:43 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 21, 2020 3:58:43 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 21, 2020 3:58:43 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 21, 2020 3:58:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 21, 2020 3:58:44 PM com.example.Rest.service.Data setUsersDatabase
+WARNING: An exception occurred while reading the database
+июл. 21, 2020 3:58:44 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 21, 2020 3:58:44 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 21, 2020 3:59:16 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 21, 2020 3:59:16 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 21, 2020 3:59:16 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 21, 2020 3:59:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 21, 2020 3:59:16 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 21, 2020 3:59:16 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 21, 2020 3:59:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 21, 2020 3:59:22 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 3:59:22 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 21, 2020 3:59:25 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 3:59:25 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 21, 2020 3:59:25 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 21, 2020 3:59:29 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 3:59:29 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 21, 2020 4:00:40 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 21, 2020 4:00:40 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 21, 2020 4:00:40 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 21, 2020 4:00:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 21, 2020 4:00:40 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 21, 2020 4:00:40 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 21, 2020 4:00:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 21, 2020 4:00:45 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 4:00:45 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 21, 2020 8:44:53 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+июл. 21, 2020 8:44:53 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Tomcat]
+июл. 21, 2020 8:44:53 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.35]
+июл. 21, 2020 8:44:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring embedded WebApplicationContext
+июл. 21, 2020 8:44:53 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+июл. 21, 2020 8:44:53 PM com.example.Rest.RestApplication main
+INFO: App started
+июл. 21, 2020 8:45:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring DispatcherServlet 'dispatcherServlet'
+июл. 21, 2020 8:45:00 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 8:45:00 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 21, 2020 8:45:00 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 21, 2020 8:45:06 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 8:45:06 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 21, 2020 8:45:08 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 8:45:08 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 21, 2020 8:45:11 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 8:45:11 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 21, 2020 8:45:34 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 8:45:34 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 21, 2020 8:45:34 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 21, 2020 8:45:39 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 8:45:39 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 21, 2020 8:45:39 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 21, 2020 8:45:46 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 8:45:46 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 21, 2020 8:45:46 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 21, 2020 8:45:52 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 8:45:52 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 21, 2020 8:47:17 PM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 21, 2020 8:47:17 PM com.example.Rest.service.UserServiceImplementation update
+INFO: Updating the user
+июл. 21, 2020 8:47:17 PM com.example.Rest.service.UserServiceImplementation update
+INFO: User updated
+июл. 21, 2020 8:47:20 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 8:47:20 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 21, 2020 8:49:34 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 21, 2020 8:49:34 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июл. 21, 2020 8:49:34 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: User deleted
+июл. 21, 2020 8:49:35 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID
+июл. 21, 2020 8:49:35 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: Deleting a user
+июл. 21, 2020 8:49:35 PM com.example.Rest.service.UserServiceImplementation delete
+INFO: User deleted
+июл. 21, 2020 8:49:39 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 8:49:39 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users
+июл. 21, 2020 8:50:02 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 8:50:02 PM com.example.Rest.service.UserServiceImplementation create
+INFO: Creating a user
+июл. 21, 2020 8:50:02 PM com.example.Rest.service.UserServiceImplementation create
+INFO: User created
+июл. 21, 2020 8:50:06 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 8:50:06 PM com.example.Rest.service.UserServiceImplementation read
+INFO: Getting all users

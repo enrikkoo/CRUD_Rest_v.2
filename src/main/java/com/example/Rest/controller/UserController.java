@@ -50,8 +50,10 @@ public class UserController {
     @PostMapping(value = "/users")
     public ResponseEntity<?> create(@RequestBody User user) {
         LOGGER.log(Level.INFO, "Received a request to create a user");
-        userService.create(user);
-        return new ResponseEntity<>(HttpStatus.CREATED);
+        final boolean created = userService.create(user);
+        return created
+                ? new ResponseEntity<>(user, HttpStatus.CREATED)
+                : new ResponseEntity<>(HttpStatus.BAD_REQUEST);
     }
 
     /**
@@ -64,7 +66,9 @@ public class UserController {
     public ResponseEntity<User> readUserById(@PathVariable(name = "id") int id) {
         LOGGER.log(Level.INFO, "Received a request to get a user by ID");
         final User user = userService.readUserById(id);
-        return user != null ? new ResponseEntity<>(user, HttpStatus.OK) : new ResponseEntity<>(HttpStatus.NOT_FOUND);
+        return user != null
+                ? new ResponseEntity<>(user, HttpStatus.OK)
+                : new ResponseEntity<>(HttpStatus.NOT_FOUND);
     }
 
     /**
@@ -77,8 +81,10 @@ public class UserController {
     @PutMapping(value = "/users/{id}")
     public ResponseEntity<?> update(@PathVariable(name = "id") int id, @RequestBody User user) {
         LOGGER.log(Level.INFO, "Received a request to update user information");
-        final boolean updated = userService.update(user, id);
-        return updated ? new ResponseEntity<>((HttpStatus.OK)) : new ResponseEntity<>(HttpStatus.NOT_MODIFIED);
+        final boolean updated = userService.update(id, user);
+        return updated
+                ? new ResponseEntity<>(user, HttpStatus.OK)
+                : new ResponseEntity<>(HttpStatus.NOT_MODIFIED);
     }
 
     /**
@@ -91,6 +97,8 @@ public class UserController {
     public ResponseEntity<?> delete(@PathVariable(name = "id") int id) {
         LOGGER.log(Level.INFO, "Received a request to delete a user by ID");
         final boolean deleted = userService.delete(id);
-        return deleted ? new ResponseEntity<>((HttpStatus.OK)) : new ResponseEntity<>(HttpStatus.NOT_MODIFIED);
+        return deleted
+                ? new ResponseEntity<>((HttpStatus.OK))
+                : new ResponseEntity<>(HttpStatus.NOT_MODIFIED);
     }
 }

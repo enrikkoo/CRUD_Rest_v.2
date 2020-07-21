@@ -22,18 +22,21 @@ public class UserServiceImplementation implements UserService {
     public UserServiceImplementation(Data data, DatabaseConfig databaseConfig) {
         this.data = data;
         this.databaseConfig = databaseConfig;
-
     }
 
     /**
      * Here the classic CRUD methods are overridden
      */
     @Override
-    public void create(User user) {
+    public boolean create(User user) {
         LOGGER.log(Level.INFO, "Creating a user");
+        if (user.getName().matches(".*\\d+.*") | (user.getSurname().matches(".*\\d+.*"))) {
+            return false;
+        }
         USERS_DATABASE.put(data.chooseId(freeIds, databaseConfig.PROPERTIES, currentID), user);
         data.writeToJSON_User(USERS_DATABASE, databaseConfig.JSON_USER);
         LOGGER.log(Level.INFO, "User created");
+        return true;
     }
 
     @Override
@@ -52,7 +55,7 @@ public class UserServiceImplementation implements UserService {
     }
 
     @Override
-    public boolean update(User user, int id) {
+    public boolean update(int id, User user) {
         LOGGER.log(Level.INFO, "Updating the user");
         if (USERS_DATABASE.containsKey(id)) {
             USERS_DATABASE.put(id, user);

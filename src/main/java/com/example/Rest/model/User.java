@@ -9,6 +9,15 @@ public class User {
     private String surname;
     private String birthday;
 
+    public User(String name, String surname, String birthday) {
+        this.name = name;
+        this.surname = surname;
+        this.birthday = birthday;
+    }
+
+    public User() {
+    }
+
     public String getName() {
         return name;
     }
@@ -31,5 +40,14 @@ public class User {
 
     public void setBirthday(String birthday) {
         this.birthday = birthday;
+    }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "name='" + name + '\'' +
+                ", surname='" + surname + '\'' +
+                ", birthday='" + birthday + '\'' +
+                '}';
     }
 }

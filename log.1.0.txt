@@ -1,2 +1,16 @@
 июл. 16, 2020 9:18:48 PM com.example.Rest.service.Data initializationfreeIds
 WARNING: An exception occurred when initializing free IDS
+июл. 21, 2020 3:43:40 PM com.example.Rest.controller.UserController read
+INFO: Received a request to output users
+июл. 21, 2020 3:43:40 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 3:43:40 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 21, 2020 3:43:40 PM com.example.Rest.controller.UserController update
+INFO: Received a request to update user information
+июл. 21, 2020 3:43:40 PM com.example.Rest.controller.UserController create
+INFO: Received a request to create a user
+июл. 21, 2020 3:43:40 PM com.example.Rest.controller.UserController readUserById
+INFO: Received a request to get a user by ID
+июл. 21, 2020 3:43:40 PM com.example.Rest.controller.UserController delete
+INFO: Received a request to delete a user by ID

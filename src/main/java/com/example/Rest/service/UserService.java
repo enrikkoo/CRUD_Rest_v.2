@@ -11,13 +11,13 @@ import java.util.Map;
  */
 public interface UserService {
 
-    void create(User user);
+    boolean create(User user);
 
     Map<Integer, User> read();
 
     User readUserById(int id);
 
-    boolean update(User user, int id);
+    boolean update(int id, User user);
 
     boolean delete(int id);
 }
